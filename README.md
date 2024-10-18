@@ -1,2 +1,2 @@
 # Machinelearning-
-basics project of  my machine learning 
+basics project of   machine learning 
